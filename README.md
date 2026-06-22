@@ -116,7 +116,7 @@ XGBoost Classifier
 
 ## 🌐 Streamlit Application
 
-(Add deployment link here)
+[(Add deployment link here)](https://customer-churn-prediction-system-we64wch82v3wd4nu8mwh7p.streamlit.app/)
 
 ---
 
